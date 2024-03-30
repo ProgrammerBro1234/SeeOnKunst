@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/SeeOnKunst/static/css/main.e7ec370d.css",
-    "main.js": "/SeeOnKunst/static/js/main.53b0aed6.js",
+    "main.css": "/SeeOnKunst/static/css/main.ddda66ad.css",
+    "main.js": "/SeeOnKunst/static/js/main.dc4728af.js",
     "static/js/453.ad6eb26e.chunk.js": "/SeeOnKunst/static/js/453.ad6eb26e.chunk.js",
-    "static/media/logo.svg": "/SeeOnKunst/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SeeOnKunst/index.html",
-    "main.e7ec370d.css.map": "/SeeOnKunst/static/css/main.e7ec370d.css.map",
-    "main.53b0aed6.js.map": "/SeeOnKunst/static/js/main.53b0aed6.js.map",
+    "main.ddda66ad.css.map": "/SeeOnKunst/static/css/main.ddda66ad.css.map",
+    "main.dc4728af.js.map": "/SeeOnKunst/static/js/main.dc4728af.js.map",
     "453.ad6eb26e.chunk.js.map": "/SeeOnKunst/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7ec370d.css",
-    "static/js/main.53b0aed6.js"
+    "static/css/main.ddda66ad.css",
+    "static/js/main.dc4728af.js"
   ]
 }
