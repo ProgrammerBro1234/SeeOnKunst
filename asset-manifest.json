@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/seeonkunst/static/css/main.e7ec370d.css",
+    "main.js": "/seeonkunst/static/js/main.a3f86672.js",
+    "static/js/453.ad6eb26e.chunk.js": "/seeonkunst/static/js/453.ad6eb26e.chunk.js",
+    "static/media/logo.svg": "/seeonkunst/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/seeonkunst/index.html",
+    "main.e7ec370d.css.map": "/seeonkunst/static/css/main.e7ec370d.css.map",
+    "main.a3f86672.js.map": "/seeonkunst/static/js/main.a3f86672.js.map",
+    "453.ad6eb26e.chunk.js.map": "/seeonkunst/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7ec370d.css",
+    "static/js/main.a3f86672.js"
+  ]
+}
