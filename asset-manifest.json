@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SeeOnKunst/static/css/main.9f9e6bbd.css",
-    "main.js": "/SeeOnKunst/static/js/main.17b11732.js",
+    "main.css": "/SeeOnKunst/static/css/main.cefa83a3.css",
+    "main.js": "/SeeOnKunst/static/js/main.2a61e57e.js",
     "static/js/453.ad6eb26e.chunk.js": "/SeeOnKunst/static/js/453.ad6eb26e.chunk.js",
     "index.html": "/SeeOnKunst/index.html",
-    "main.9f9e6bbd.css.map": "/SeeOnKunst/static/css/main.9f9e6bbd.css.map",
-    "main.17b11732.js.map": "/SeeOnKunst/static/js/main.17b11732.js.map",
+    "main.cefa83a3.css.map": "/SeeOnKunst/static/css/main.cefa83a3.css.map",
+    "main.2a61e57e.js.map": "/SeeOnKunst/static/js/main.2a61e57e.js.map",
     "453.ad6eb26e.chunk.js.map": "/SeeOnKunst/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f9e6bbd.css",
-    "static/js/main.17b11732.js"
+    "static/css/main.cefa83a3.css",
+    "static/js/main.2a61e57e.js"
   ]
 }
